@@ -1,5 +1,5 @@
 # MarkovJazzChordProgressionGenerator
-## What is this?
+## What's this?
 It generates chord progressions of jazz using Markov Chain.  
 Chord progression samples were obtained with [irealb_parser](https://github.com/rubiety/irealb_parser).  
 Chord progressions are generated in sentence format.
